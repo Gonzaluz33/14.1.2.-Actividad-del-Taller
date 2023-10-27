@@ -1,0 +1,11 @@
+/* Aquí añades los estilos personalizados */
+.bg-primary {
+    background-color: grey;
+}
+
+.navbar-dark .navbar-brand,
+.navbar-dark .nav-link {
+    color: black;
+}
+
+/* Continúa con más estilos según lo requieras */
